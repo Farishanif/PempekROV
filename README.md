@@ -4,7 +4,9 @@ This repo contains the proteus 8 simulation w/ all the library and arduino code 
 There are 3 people in this team with interchangeable position, but mainly focuses on:
 
 MUHAMMAD FARISHANIF WIDYONO (Programming and Device Building)
-MUHAMMAD FATIH FAHROJI (Schematics, Programming, and Device Building)
+
+MUHAMMAD FATIH FAHROJI (Schematics, Programming, and Device Building
+
 RACHMAN HANAFI (Device Building and Programming)
 
 How to use?
