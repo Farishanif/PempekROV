@@ -1,6 +1,11 @@
 # PempekROV
 
 This repo contains the proteus 8 simulation w/ all the library and arduino code for our submarine project.
+There are 3 people in this team with interchangeable position, but mainly focuses on:
+
+MUHAMMAD FARISHANIF WIDYONO (Programming and Device Building)
+MUHAMMAD FATIH FAHROJI (Schematics and Programming)
+RACHMAN HANAFI (Device Building and Programming)
 
 How to use?
 1. Extract all the files inside this repo to your pc
